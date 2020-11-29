@@ -18,10 +18,18 @@
 		<li>굳4443</li>
 		<li>충돌</li>
 		<li>오잉</li>
+<<<<<<< HEAD
+		1222
+		2333
+		3
+		push me
+		other push 
+=======
 		<li>오잉2</li>
 		<li>오잉3</li>
 		develop2
 		develop3
+>>>>>>> develop3
 	</body>
 
 </html>
