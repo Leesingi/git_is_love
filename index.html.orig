@@ -15,10 +15,16 @@
 		<li>굳4443</li>
 		<li>충돌</li>
 		<li>오잉</li>
+<<<<<<< HEAD
 		<li>오잉2</li>
 		<li>오잉3</li>
-		develop2
 		develop3
+=======
+		1
+		2
+		3
+		develop2
+>>>>>>> develop2
 	</body>
 
 </html>
